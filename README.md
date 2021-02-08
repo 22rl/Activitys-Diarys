@@ -37,3 +37,4 @@ ricardo@ubuntu:~/Documents/Ubuntu$ man mv
 
 [1]+ Stopped               man mv
 ricardo@ubuntu:~/Documents/Ubuntu$ exit
+exit
