@@ -1,0 +1,14 @@
+.Transportadora {
+    text-align: left;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+.buttoncadastro {
+   border: none;
+   padding: 25px;
+   background-color: darkgreen;
+   color: white;
+   align-items: initial;
+   box-shadow: 10px 5px 5px black;
+}
