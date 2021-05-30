@@ -3,12 +3,32 @@
     flex-direction: column;
     width: auto;
     height: auto;
+    margin-left: 300px;
+    margin-top: 50px;
 }
 .buttoncadastro {
-   border: none;
+   border: rgba(36, 10, 10, 0.774);
    padding: 25px;
    background-color: darkgreen;
    color: white;
    align-items: initial;
    box-shadow: 10px 5px 5px black;
+   width: auto;
+   height: auto;
+}
+.LineSecundary {
+    margin-right: 1000px;
+    height: auto;
+    width: auto;
+}
+.ParagrafoPrimeiro {
+    display: inline-block;
+}
+.imagem-Ponto_Mais {
+    margin-left: 500px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px 0px 150px;
 }
